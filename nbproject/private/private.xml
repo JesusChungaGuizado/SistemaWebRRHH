@@ -3,10 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/EjerciciosUML_JEE/ProyectRRHH/web/WEB-INF/dispatcher-servlet.xml</file>
-            <file>file:/E:/EjerciciosUML_JEE/ProyectRRHH/web/WEB-INF/jsp/index.jsp</file>
-            <file>file:/E:/EjerciciosUML_JEE/ProyectRRHH/src/java/hibernate.cfg.xml</file>
+            <file>file:/E:/EjerciciosUML_JEE/ProyectRRHH/src/java/negocio/Personal.java</file>
+            <file>file:/E:/EjerciciosUML_JEE/ProyectRRHH/src/java/servicio/PersonalServicioImp.java</file>
+            <file>file:/E:/EjerciciosUML_JEE/ProyectRRHH/src/java/servicio/PersonalServicio.java</file>
+            <file>file:/E:/EjerciciosUML_JEE/ProyectRRHH/src/java/persistencia/PersonalDao.java</file>
+            <file>file:/E:/EjerciciosUML_JEE/ProyectRRHH/src/java/vista/PersonalControl.java</file>
+            <file>file:/E:/EjerciciosUML_JEE/ProyectRRHH/src/java/persistencia/Operacion.java</file>
+            <file>file:/E:/EjerciciosUML_JEE/ProyectRRHH/src/java/persistencia/PersonalDaoImp.java</file>
             <file>file:/E:/EjerciciosUML_JEE/ProyectRRHH/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/E:/EjerciciosUML_JEE/ProyectRRHH/src/java/persistencia/Conexion.java</file>
         </group>
     </open-files>
 </project-private>
